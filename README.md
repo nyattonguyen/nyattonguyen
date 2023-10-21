@@ -9,7 +9,7 @@
  
  🌱 I’m currently learning **Python, Vue**
 
- 💬 Ask me about **Node.js, React, React Native, Firebase, MongoDB... or anything [here](https://github.com/nyattonguyen/nyattonuyen)**
+ 💬 Ask me about **Node.js, React, React Native, Firebase, MongoDB... or anything [here](https://github.com/nyattonguyen/nyattonuyen/issues)**
 
  ⚡ Fun fact **Game, Music(Balad)**
  
