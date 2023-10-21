@@ -26,20 +26,19 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center"> Languages-Frameworks-Tools </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,nest" />
-   
     <p align="center">
-      <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-      <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
-      <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>
-      <img src="https://img.shields.io/badge/-Php-black?style=flat-square&logo=php"/>
-      <img src="https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript"/>
-      <img src="https://img.shields.io/badge/-Postgresql?style=flat-square&logo=postgresql"/>
-      <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
-      <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
+      <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript logo">
+      <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js" alt="Node.js logo">
+      <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" alt="Python logo">
+      <img src="https://img.shields.io/badge/-Php-black?style=flat-square&logo=php" alt="PHP logo">
+      <img src="https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript" alt="TypeScript logo">
+      <img src="https://img.shields.io/badge/-Postgresql?style=flat-square&logo=postgresql" alt="PostgreSQL logo">
+      <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" alt="MongoDB logo">
+      <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" alt="MySQL logo">
     </p>
 </div>
 
