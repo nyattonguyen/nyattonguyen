@@ -37,7 +37,7 @@
       <img src="https://img.shields.io/badge/-Php-black?style=flat-square&logo=php" alt="PHP logo">
       <img src="https://img.shields.io/badge/-express.js-black?style=flat-square&logo=express&logoColor=white" alt="Express logo">
       <img src="https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript" alt="TypeScript logo">
-      <img src="https://img.shields.io/badge/-postgres?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL logo">
+      <img src="https://img.shields.io/badge/-postgresql-black?style=flat-square&logo=postgresql" alt="PostgreSQL logo">
       <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" alt="MongoDB logo">
       <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" alt="MySQL logo">
     </p>
