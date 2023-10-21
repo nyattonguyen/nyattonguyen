@@ -7,7 +7,7 @@
  
  🔭 I’m currently working on **a app booking**
  
- 🌱 I’m currently learning **Python, Vue**
+ 🌱 I’m currently learning **Python, Vue, Tailwind**
 
  💬 Ask me about **Node.js, React, React Native, Firebase, MongoDB... or anything [here](https://github.com/nyattonguyen/nyattonuyen/issues)**
 
@@ -29,8 +29,20 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,mysql,postgresql,php" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,nest" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,mysql,postgresql" />
+    <div>
+     <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+     <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
+     <img src="https://img.shields.io/badge/-Expressjs-black?style=flat-square&logo=Express.js"/>
+     <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=python"/>
+     <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=php"/>
+     <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=typescript"/>
+     <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=postgresql"/>
+     <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
+     <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
+    </div>
+ <br>
 </div>
 
 <br/>
