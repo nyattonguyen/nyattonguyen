@@ -1,4 +1,3 @@
-<img align="right" src="" />
 
 <h3 align="center">A passionate software developer from HCM</h3>
 
@@ -8,9 +7,9 @@
  
  🔭 I’m currently working on **a app booking**
  
- 🌱 I’m currently learning **Tailwind, React Native**
+ 🌱 I’m currently learning **Python, Vue**
 
- 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/nyattonguyen/nyattonuyen)**
+ 💬 Ask me about **Node.js, React, React Native, Firebase, MongoDB... or anything [here](https://github.com/nyattonguyen/nyattonuyen)**
 
  ⚡ Fun fact **Game, Music(Balad)**
  
@@ -30,7 +29,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,reactnative" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,mysql,postgresql,php" /><br>
 </div>
 
