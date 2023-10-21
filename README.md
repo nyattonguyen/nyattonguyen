@@ -31,7 +31,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,nest" />
    
-    <div>
+    <p align="center">
       <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
       <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
       <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>
@@ -40,8 +40,7 @@
       <img src="https://img.shields.io/badge/-Postgresql?style=flat-square&logo=postgresql"/>
       <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
       <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
-    </div>
- <br>
+    </p>
 </div>
 
 <br/>
