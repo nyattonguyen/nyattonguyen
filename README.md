@@ -5,7 +5,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a app booking**
+ 🔭 I’m currently working on **a app video call**
  
  🌱 I’m currently learning **Python, Vue, Tailwind**
 
