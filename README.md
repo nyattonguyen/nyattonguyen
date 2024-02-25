@@ -40,6 +40,7 @@
       <img src="https://img.shields.io/badge/-postgresql-black?style=flat-square&logo=postgresql" alt="PostgreSQL logo">
       <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" alt="MongoDB logo">
       <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" alt="MySQL logo">
+      <img src="https://img.shields.io/badge/-c#-black?style=flat-square&logo=c#" alt="C# logo">
     </p>
 </div>
 
