@@ -34,6 +34,7 @@
       <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript logo">
       <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js" alt="Node.js logo">
       <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" alt="Python logo">
+      <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="Python logo">
       <img src="https://img.shields.io/badge/-Php-black?style=flat-square&logo=php" alt="PHP logo">
       <img src="https://img.shields.io/badge/-express.js-black?style=flat-square&logo=express&logoColor=white" alt="Express logo">
       <img src="https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript" alt="TypeScript logo">
