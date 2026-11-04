@@ -5,9 +5,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Tools post data**
+ 🔭 I’m currently working on **ERP**
  
- 🌱 I’m currently learning **Python, Vue, Tailwind**
+ 🌱 I’m currently learning **Python, AI**
 
  💬 Ask me about **Node.js, React, React Native, Firebase, MongoDB... or anything [here](https://github.com/nyattonguyen/nyattonuyen/issues)**
 
